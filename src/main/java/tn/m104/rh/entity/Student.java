@@ -23,4 +23,5 @@ public class Student {
 
 }
 //Commentaire pour  vérifier le premeir commit de modif
-// update 06/02: verficaiton de l'utilisation  de la création d'une branche et d'une modificaiton du code 
+// update 06/02 : verficaiton de l'utilisation  de la création d'une branche et d'une modificaiton du code
+// update 13/02 : Commentaire pour vérfier le fait que Jenkins effecture une rebuild  suite à une modfication du code 
